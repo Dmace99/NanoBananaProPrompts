@@ -10,6 +10,14 @@ This repository focuses on **high-fidelity image prompts** sourced from X (Twitt
 
 1. [Photorealism & Aesthetics](#1-photorealism--aesthetics)
 2. [Creative Experiments](#2-creative-experiments)
+3. [Education & Knowledge](#3-education--knowledge)
+4. [E-commerce & Virtual Studio](#4-e-commerce--virtual-studio)
+5. [Workplace & Productivity](#5-workplace--productivity)
+6. [Photo Editing & Restoration](#6-photo-editing--restoration)
+7. [Interior Design](#7-interior-design)
+8. [Social Media & Marketing](#8-social-media--marketing)
+9. [Daily Life & Translation](#9-daily-life--translation)
+10. [Social Networking & Avatars](#10-social-networking--avatars)
 
 ## 1. Photorealism & Aesthetics
 
@@ -113,4 +121,17 @@ Lighting and color grading third
 Environment and background fourth
 Motion and realism refinements last
 ```
+---
 
+## 3. Education & Knowledge
+
+### 3.1. Gridded food from a specific country
+*This creates a 2x4 grid of dutch food. Change to any country of food you prefer*
+
+<img width="704" height="384" alt="Gemini_Generated_Image_spu5blspu5blspu5" src="https://github.com/user-attachments/assets/872f0d6f-8928-4c6b-a322-ea241c4e6855" />
+
+
+**Prompt**
+```text
+a grid of photos showing different types of dutch food, such as [poffertje, nieuwe haring, pannenkoeken, stamppot, oliebollen, erwtensoep, frikandel, bitterballen], food photography, high-resolution photography, bright colors, simple backgrounds, a light [color] color theme, hyper-realistic photography, super-detailed.
+```
