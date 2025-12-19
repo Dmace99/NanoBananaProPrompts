@@ -62,6 +62,7 @@ Prompts focused on pushing the boundaries of composition, crowd generation, mini
 
 ### 2.1. Vintage Poster
 *show the model as a vintage poster, including name*
+
 <img width="528" height="496" alt="VintagePoster01" src="https://github.com/user-attachments/assets/19ef53bf-5b60-4d0c-bce7-6f608add88d0" />
 
 **Prompt:**
