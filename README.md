@@ -16,7 +16,7 @@ This repository focuses on **high-fidelity image prompts** sourced from X (Twitt
 Optimize your visual output with these **high-fidelity prompts**. These are designed to utilize the model's ability to render complex lighting, textures, and specific eras.
 
 ### 1.1. Golden Sexy Bankrobber
-*Handling complex compositions with multiple famous faces and specific lighting.*
+*Create a visual shot of a sexy lady robbing a bank at gunpoint*
 
 <img width="400" height="400" alt="Golden_Sexy_bankrobber" src="https://github.com/user-attachments/assets/2cb7dc09-f9ca-4831-9ac1-48db55eceaa9" />
 
