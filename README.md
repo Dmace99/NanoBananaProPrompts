@@ -125,7 +125,7 @@ Motion and realism refinements last
 ### 2.3 Changing comics to something real
 *this prompt will change your uploaded picture from a comic to a real 3d photo*
 
-<img width="600" height="448" alt=artwork05" src="https://github.com/user-attachments/assets/ab40d843-82c8-47a1-8a47-2182a3999977)" />
+<img width="600" height="448" alt=artwork05" src="https://github.com/user-attachments/assets/ab40d843-82c8-47a1-8a47-2182a3999977" />
 <img width="600" height="448" alt="Gemini_Generated_Image_xg120ixg120ixg12" src="https://github.com/user-attachments/assets/b7c2a3ce-6284-4b34-b597-b9eb36fc3491" />
 
 **Prompt**
