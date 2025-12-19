@@ -18,7 +18,7 @@ Optimize your visual output with these **high-fidelity prompts**. These are desi
 ### 1.1. Golden Sexy Bankrobber
 *Handling complex compositions with multiple famous faces and specific lighting.*
 
-<img width="1024" height="1024" alt="Golden_Sexy_bankrobber" src="https://github.com/user-attachments/assets/2cb7dc09-f9ca-4831-9ac1-48db55eceaa9" />
+<img width="400" height="400" alt="Golden_Sexy_bankrobber" src="https://github.com/user-attachments/assets/2cb7dc09-f9ca-4831-9ac1-48db55eceaa9" />
 
 **Prompt:**
 ```json
@@ -53,3 +53,20 @@ Optimize your visual output with these **high-fidelity prompts**. These are desi
   }
 }
 ```
+
+---
+
+## 2. Creative Experiments
+
+Prompts focused on pushing the boundaries of composition, crowd generation, minimalism, and temporal consistency.
+
+### 2.1. Vintage Poster
+*show the model as a vintage poster, including name*
+<img width="528" height="496" alt="VintagePoster01" src="https://github.com/user-attachments/assets/19ef53bf-5b60-4d0c-bce7-6f608add88d0" />
+
+**Prompt:**
+```text
+Vintage 1950s portrait of a woman named Maria Joana, keeping her serene gaze, charming half-smile, dark hair, and hoop earrings. 1950s style: voluminous hairstyle with subtle waves inspired by Grace Kelly, elegant hat with lily flowers in sepia tones and dangling pearls, silk dress with a round neckline and soft floral pattern. Earrings reimagined as pearls. Atmospheric background with aged paper, old-style calligraphy, hand-drawn flowers, and a steam train station in the distance. Classic gold frame with delicate reliefs. Name 'Maria Joana' inscribed in the bottom right corner in elegant calligraphy. Digital vintage painting technique, faithful to the original face and expression, Hollywood classic cinematic style, romantic and sophisticated atmosphere.
+````
+
+
