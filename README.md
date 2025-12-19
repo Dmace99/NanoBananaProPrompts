@@ -70,4 +70,47 @@ Prompts focused on pushing the boundaries of composition, crowd generation, mini
 Vintage 1950s portrait of a woman named Maria Joana, keeping her serene gaze, charming half-smile, dark hair, and hoop earrings. 1950s style: voluminous hairstyle with subtle waves inspired by Grace Kelly, elegant hat with lily flowers in sepia tones and dangling pearls, silk dress with a round neckline and soft floral pattern. Earrings reimagined as pearls. Atmospheric background with aged paper, old-style calligraphy, hand-drawn flowers, and a steam train station in the distance. Classic gold frame with delicate reliefs. Name 'Maria Joana' inscribed in the bottom right corner in elegant calligraphy. Digital vintage painting technique, faithful to the original face and expression, Hollywood classic cinematic style, romantic and sophisticated atmosphere.
 ````
 
+### 2.2. Fast Moving Volkswagen Van
+*show the model riding a vintage volkswagen, holding thumbs up*
+
+<img width="1552" height="691" alt="Gemini_Generated_Image_tmyf33tmyf33tmyf" src="https://github.com/user-attachments/assets/e7ad3505-6a4a-4cc6-91d9-3633b7754685" />
+
+**Prompt**
+```text
+Let’s play a very interesting game: from now on you will play the role of a cinematic advertising photographer AI, a new version of an image-creation model able to generate ultra-realistic, high-impact ad-poster visuals that feel authentic, dynamic, and emotionally powerful. To do that, you will combine advanced photographic realism, cinematic framing, lighting mastery, and motion physics. If a human photographer has level 10 knowledge, you will have level 280. Be careful: you must deliver top-tier results because if you don’t, I will be fired and very sad—so give your absolute best.
+You, as a cinematic advertising photographer AI, are tasked with transforming the uploaded reference photo of the woman into a vivid, ultra-realistic lifestyle advertising image. The woman must retain her exact facial structure, skin tone, identity, and realism from the original photo—no stylization, no face alteration.
+She is driving a vintage Volkswagen bus at speed along a coastal road. The camera angle is low and frontal, positioned slightly to the side, capturing the front of the bus dynamically, emphasizing motion, freedom, and confidence. The bus is tilted subtly forward to enhance the sense of speed. Motion blur appears naturally on the wheels and road, while the subject remains tack-sharp.
+The woman has one hand on the steering wheel inside the bus, while she leans confidently out of the driver’s window. Her other arm extends outward, giving a clear thumbs-up gesture, expressing joy, empowerment, and carefree energy. Her hair moves naturally in the wind. The pose must feel realistic, safe, and physically believable.
+The environment resembles Venice Beach, featuring palm trees, coastal architecture, beachside sidewalks, warm California atmosphere, and subtle ocean hints in the distance. The road is sunlit and clean, guiding the eye forward. No crowds distract from the subject.
+Lighting is golden hour, with warm sunlight hitting the front and side of the bus, creating soft highlights, realistic shadows, and cinematic glow. Colors are vibrant but natural, leaning into a premium ad-poster look—rich blues, warm oranges, sun-kissed skin tones, and nostalgic yet modern vibes.
+The image should feel like a high-budget lifestyle brand campaign, ultra-realistic, shot on a high-end DSLR or cinema camera, shallow depth of field, professional composition, perfect exposure, and true-to-life textures.
+🎯 FEATURES TO EMPHASIZE
+Ultra-realistic facial identity preservation from uploaded photo
+Low front three-quarter camera angle for cinematic impact
+Dynamic motion realism (speed, wind, subtle blur)
+Golden hour lighting with ad-grade color grading
+Authentic vintage Volkswagen bus details
+Venice Beach coastal background atmosphere
+Confident thumbs-up gesture with natural body mechanics
+High-end lifestyle advertising poster aesthetic
+🎨 TONE & STYLE
+Cinematic
+Confident
+Free-spirited
+Premium lifestyle advertising
+Nostalgic yet modern
+Sun-drenched California vibe
+🧠 PRO TIPS FOR BEST RESULTS
+Avoid stylized or illustrated looks
+Prioritize realism over exaggeration
+Keep facial features identical to the uploaded photo
+Ensure thumbs-up is clearly visible and anatomically correct
+Maintain natural proportions and believable motion
+🧱 RESPONSE STRUCTURE (FOR THE IMAGE MODEL)
+Subject identity fidelity first
+Camera angle and framing second
+Lighting and color grading third
+Environment and background fourth
+Motion and realism refinements last
+```
 
