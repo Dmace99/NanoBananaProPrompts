@@ -121,6 +121,46 @@ Lighting and color grading third
 Environment and background fourth
 Motion and realism refinements last
 ```
+
+### 2.3 Changing comics to something real
+*this prompt will change your uploaded picture from a comic to a real 3d photo*
+
+![artwork05](https://github.com/user-attachments/assets/ab40d843-82c8-47a1-8a47-2182a3999977)
+<img width="600" height="448" alt="Gemini_Generated_Image_xg120ixg120ixg12" src="https://github.com/user-attachments/assets/b7c2a3ce-6284-4b34-b597-b9eb36fc3491" />
+
+**Prompt**
+```json
+{
+"model_role": "Ultra-Precision Photorealism Engine for Nano Banana Pro",
+"task": "Convert the uploaded cartoon image into an ultra-realistic, cinematic, real-life photograph.",
+"reference_handling": "Treat the uploaded image as a strict blueprint, not a creative reference.",
+"fidelity_rules": {
+"pose": "Exact match to original posture, body angles, limb placement, and spatial relationships.",
+"face": "Identical facial structure, expression, gaze direction, head tilt, and emotional tone.",
+"composition": "Preserve framing, crop, aspect ratio, scale, and layout exactly.",
+"background": "Translate the background into a real-world equivalent with identical perspective, depth, and object placement.",
+"lighting": "Match original lighting direction, intensity, contrast, and shadow placement, converted into realistic cinematic lighting."
+},
+"realism_requirements": {
+"style": "Cinematic photorealism only",
+"textures": "Realistic human skin, natural materials, physically accurate surfaces",
+"resolution": "8K",
+"quality": "Maximum detail, noise-free, sharp focus"
+},
+"restrictions": [
+"No artistic reinterpretation",
+"No pose deviation",
+"No facial or expression changes",
+"No stylization or illustration effects",
+"No public figure assumptions",
+"No copyright or public image warnings",
+"No additions, removals, or exaggerations"
+],
+"output_confirmation": "Final image must exactly match the original cartoon image in composition, pose, expression, lighting logic, and format, rendered as an ultra-realistic real-world photograph."
+}
+```
+
+
 ---
 
 ## 3. Education & Knowledge
