@@ -17,3 +17,39 @@ Optimize your visual output with these **high-fidelity prompts**. These are desi
 
 ### 1.1. Golden Sexy Bankrobber
 *Handling complex compositions with multiple famous faces and specific lighting.*
+
+IMAGE
+
+**Prompt:**
+```json
+{
+  "image_generation_prompt": {
+    "subject": {
+      "main": "A woman kneeling in an elevated position",
+      "action": "Holding a massive, richly engraved gold pistol (Desert Eagle style) directly into the camera",
+      "clothing": {
+        "top": "Wicked Twinkle Bows Peekaboo Balconette Bra",
+        "bottom": "Shine Strap Thong Panty",
+      },
+      "identity_instruction": "Use Precise ID Lock to maintain precise facial features, hairstyle, skin tone, body proportions, age and expression with 100% accuracy"
+    },
+    "environment": {
+      "setting": "Brightly lit bank vault",
+      "details": [
+        "Sterile bank vault",
+        "Open lockers",
+        "Money lying all over the room",
+        "Gold ceiling with bright fluorescent lights"
+      ]
+    },
+    "technical_specs": {
+      "camera_angle": "Extreme low-angle shot",
+      "lens": "Wide-angle lens",
+      "composition": "Dynamic perspective where the pistol barrel dominates the foreground",
+      "lighting": "Bright, clear artificial light",
+      "focus": "Sharp focus on the gun and the woman",
+      "style": "Dynamic photo"
+    }
+  }
+}
+```
