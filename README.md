@@ -18,7 +18,7 @@ Optimize your visual output with these **high-fidelity prompts**. These are desi
 ### 1.1. Golden Sexy Bankrobber
 *Handling complex compositions with multiple famous faces and specific lighting.*
 
-IMAGE
+<img width="1024" height="1024" alt="Golden_Sexy_bankrobber" src="https://github.com/user-attachments/assets/2cb7dc09-f9ca-4831-9ac1-48db55eceaa9" />
 
 **Prompt:**
 ```json
