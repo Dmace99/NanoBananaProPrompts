@@ -178,9 +178,9 @@ a grid of photos showing different types of dutch food, such as [poffertje, nieu
 
 ---
 
-## 3. Photo Editing & restoration
+## 6. Photo Editing & restoration
 
-### 3.1 Remove cracks and smudges from photos
+### 6.1 Remove cracks and smudges from photos
 * This makes for a clear picture. *
 
 <img width="448" height="600" alt="Mieneke_Moeder_Foto_Verbeterd" src="https://github.com/user-attachments/assets/2dd3fa13-18d2-427a-866a-850e395af2de" />
@@ -190,7 +190,7 @@ a grid of photos showing different types of dutch food, such as [poffertje, nieu
 A highly detailed, professional restoration of a vintage black and white photograph. The goal is to maximize detail, clarity, and texture while preserving the authentic, classic black and white aesthetic. Remove all visible signs of damage, including scratches, creases, spots, tears, and discoloration. Sharpen the focus and enhance fine details in the subjects' faces, clothing, and background. Optimize the contrast, dynamic range, and tonal separation (shadows, mid-tones, highlights) to give the image a deep, rich, and high-quality appearance, similar to a modern archival print. Maintain the original composition and aspect ratio. Style: Expert photographic restoration, high-resolution, monochrome, timeless, archival quality.
 ```
 
-### 3.2 Restore a vintage damaged Photo
+### 6.2 Restore a vintage damaged Photo
 * Repair cracks and colorize *
 
 
@@ -212,3 +212,22 @@ A highly detailed, professional restoration of a vintage black and white photogr
   }
 }
 ```
+
+*create video of the result*
+```json
+{
+  "name": "Cinematic Motion",
+  "description": "Animate the restored photo with subtle cinematic movement while preserving identity.",
+  "instructions": {
+    "input_image": "Use the restored cinematic image as the exact visual reference for face, pose, clothing and lighting.",
+    "character_consistency": "Keep the subject’s face, expression, hairstyle, clothing and body shape 100% consistent with the input image. No morphing, aging, slimming, beautification or makeup changes.",
+    "camera_motion": "Create a slow, smooth cinematic move such as a gentle push-in or micro-orbit around the subject, as if shot on a cinema camera with a stabilizer.",
+    "subject_motion": "Add only subtle natural movements: soft breathing, tiny head tilt, micro eye blinks, minimal hair or cloth sway. Do not change the core pose or expression.",
+    "environment_motion": "Optionally animate small background elements like light flicker, depth-of-field breathing or dust/particles in the air, while keeping the scene composition and lighting consistent.",
+    "duration": "Generate a short 3–6 second clip that feels like a living movie still, not a full re-staging of the scene.",
+    "preserve_story": "Do not introduce new objects, text, props or characters. Do not change time of day, location or overall mood from the restored image.",
+    "output": "High-resolution, hyperreal cinematic video clip that feels like a subtle moving portrait built from the original photo."
+  }
+}
+```
+
