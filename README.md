@@ -191,7 +191,7 @@ A highly detailed, professional restoration of a vintage black and white photogr
 ```
 
 ### 6.2 Restore a vintage damaged Photo
-* Repair cracks and colorize *
+* repair cracks and colorize *
 
 
 
