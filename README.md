@@ -175,3 +175,40 @@ Motion and realism refinements last
 ```text
 a grid of photos showing different types of dutch food, such as [poffertje, nieuwe haring, pannenkoeken, stamppot, oliebollen, erwtensoep, frikandel, bitterballen], food photography, high-resolution photography, bright colors, simple backgrounds, a light [color] color theme, hyper-realistic photography, super-detailed.
 ```
+
+---
+
+## 3. Photo Editing & restoration
+
+### 3.1 Remove cracks and smudges from photos
+* This makes for a clear picture. *
+
+<img width="448" height="600" alt="Mieneke_Moeder_Foto_Verbeterd" src="https://github.com/user-attachments/assets/2dd3fa13-18d2-427a-866a-850e395af2de" />
+
+**Prompt**
+```text
+A highly detailed, professional restoration of a vintage black and white photograph. The goal is to maximize detail, clarity, and texture while preserving the authentic, classic black and white aesthetic. Remove all visible signs of damage, including scratches, creases, spots, tears, and discoloration. Sharpen the focus and enhance fine details in the subjects' faces, clothing, and background. Optimize the contrast, dynamic range, and tonal separation (shadows, mid-tones, highlights) to give the image a deep, rich, and high-quality appearance, similar to a modern archival print. Maintain the original composition and aspect ratio. Style: Expert photographic restoration, high-resolution, monochrome, timeless, archival quality.
+```
+
+### 3.2 Restore a vintage damaged Photo
+* Repair cracks and colorize *
+
+
+
+**Prompt**
+```json
+{
+  "name": "Cinematic Restoration",
+  "description": "Restore and grade the photo with a subtle Hollywood cinematic look.",
+  "instructions": {
+    "damage_repair": "Remove scratches, dust, creases, stains and noise.",
+    "color_correction": "Correct faded colors and balance white point while keeping natural skin tones.",
+    "lighting": "Apply a gentle cinematic contrast curve with soft, rich shadows and controlled highlights. Add very subtle vignette and filmic tonality without crushing detail.",
+    "detail_sharpening": "Sharpen fine details and texture while avoiding oversharpening or halos.",
+    "preserve": "Do not alter any facial features, expressions, hairstyles, clothing, or personal attributes.",
+    "preserve_character": "Preserve original character identity exactly as in the input, with no beautification or reshaping.",
+    "style_notes": "Slightly warm mid-tones, calm color palette and clean background to resemble a high-end movie still.",
+    "output": "Clean, high-resolution, cinema-graded restored version suitable as a hero frame for animation."
+  }
+}
+```
