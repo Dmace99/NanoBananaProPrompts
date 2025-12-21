@@ -193,6 +193,8 @@ A highly detailed, professional restoration of a vintage black and white photogr
 ### 6.2 Restore a vintage damaged Photo
 * repair cracks and colorize *
 
+<img width="440" height="600" alt="IMG_20251221_115638" src="https://github.com/user-attachments/assets/315bb867-57d9-47d9-acd5-28c7c60f7289" />
+<img width="440" height="600" alt="Gemini_Generated_Image_oqaa3oqaa3oqaa3o" src="https://github.com/user-attachments/assets/5cef127e-0dac-45f6-9b74-ab18608ada5d" />
 
 
 **Prompt**
