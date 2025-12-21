@@ -160,6 +160,16 @@ Motion and realism refinements last
 }
 ```
 
+### 2.4 Creating a Film Poster
+*Using a Film poster as a reference.*
+
+<img width="320" height="832" alt="Gemini_Generated_Image_nanhh7nanhh7nanh" src="https://github.com/user-attachments/assets/71d8ebe6-e5f7-4822-a1c0-648d75882777" />
+
+**Prompt**
+```text
+A high-resolution cinematic movie poster in the style of "Now You See Me." The background is a surreal, M.C. Escher-inspired maze of white marble staircases defying gravity, with stairs going sideways and upside-down. The lighting is moody, monochromatic cool blue and white. Several people are standing on different levels of the stairs, posing mysteriously in stylish semi-formal attire. At the very top, widely spaced text lists the names: "[INSERT NAME 1] [INSERT NAME 2] [INSERT NAME 3]". At the bottom, a large, metallic, 3D reflection title reads: "[INSERT TITLE HERE]". 8k resolution, photorealistic, symmetrical composition.
+```
+
 
 ---
 
